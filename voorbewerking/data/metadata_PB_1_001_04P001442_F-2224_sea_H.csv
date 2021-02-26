@@ -1,0 +1,5 @@
+name,x,y,ID,measpointlev,sedsumplength,datlog_depth,date,vegtype,tranche,projection,metadata_available,bovenkant_filter,onderkant_filter,maaiveld,filename,locatie,meetpunt,STN,YYYYMMDD,RD,SX,kind,EV24
+PB_1_001_04P001442_F-2224,104902.167,528228.205,16.0,0.296,,,737651.2986111111,,,epsg:28992,True,-21.354,-22.354,-0.954,,,,,,,,,
+RD Petten,105201.3480108409,529321.1267474331,,,,,,,,,,,,,,,,stationsnummer/stationnumber,datum/date (YYYY=jaar/year MM=maand/month DD=dag/day),24-uur som van de neerslag in m van 08.00 voorafgaande dag - 08.00 UTC huidige dag/,codecijfer sneeuwdek om 08.00 uur UTC/code for the snow cover at 08.00 UTC:,prec,
+EV24 De Kooy,114357.7957551673,547781.0861923738,,,,,,,,,,,,,,,,,Date (YYYY=year MM=month DD=day);,,,evap,Potential evapotranspiration (Makkink) (in m);
+Den Helder,111850.00150935724,553230.0020763765,,,,,,,,,,,,,,,,,,,,waterlevel,
