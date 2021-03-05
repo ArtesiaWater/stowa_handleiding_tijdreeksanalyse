@@ -1,0 +1,1 @@
+jupyter nbconvert --to pdf --no-input Notebook_systeemanalyse_V02.ipynb
