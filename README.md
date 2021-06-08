@@ -15,6 +15,6 @@ De voglende auteurs hebben bijgedragen aan verschillende onderdelen van de noteb
 - M. Bakker
 - D. Brakenhoff
 - R.A. Collenteur
-- O. Ebbens
+- O.N. Ebbens
 - F.Schaars
 - S.A. Klop
